@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "14946045789",
+    "project_id": "auction-82762",
+    "storage_bucket": "auction-82762.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14946045789:android:50c590deca8545352222b4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14946045789-rse84n51h4mfoiouvtilkr2esqqkprkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "272d7c2a6f7a09a27b8ac9ab79bb8146fbb255a3"
+          }
+        },
+        {
+          "client_id": "14946045789-eutdfo8r3rl7ch16m5614el32hvfbopj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWago0EuZB38Irxo6baBQJ3HEP50R7BX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14946045789-eutdfo8r3rl7ch16m5614el32hvfbopj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
