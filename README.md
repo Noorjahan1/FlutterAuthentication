@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-This is a small prok=ject for bidding product still on  development.
+This is a small project for bidding product still on  development.
 Packages Used for this project is
 Firebase Core
 Google sign in
